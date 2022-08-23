@@ -1,0 +1,26 @@
+#root .home .services {
+  
+
+  .services-half-col {
+    display: block;
+    height: 100%;
+    padding: 60px 40px;
+    background-color: #00bdbb;
+    background-position: 50% 50%;
+    background-size: cover;
+    color: #fff;
+    text-decoration: none;
+
+    .services-title {
+      display: inline-block;
+      margin-bottom: 20px;
+    }
+
+    .services-text-holder {
+      max-width: 270px;
+      color: #fff;
+      font-size: 14px;
+      line-height: 20px;
+    }
+  }
+}

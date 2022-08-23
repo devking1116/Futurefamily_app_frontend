@@ -1,0 +1,48 @@
+$main-height: 700px;
+$set-password-height: 400px;
+
+#root .create-account {
+  .title {
+    height: 67.5px;
+    background-color: #f5f6f7;
+
+    h1 {
+      width: 207px;
+      height: 35px;
+      font-family: FilsonProLight;
+      font-size: 30px;
+      font-weight: 300;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.17;
+      letter-spacing: -1.2px;
+      color: #3bbaba;
+    }
+  }
+
+  .main {
+    
+    height: 700px;
+    opacity: 0.46;
+    background-size: cover;
+    position: relative;
+
+    .overlay {
+      background-image: linear-gradient(99deg, #3bbaba, rgba(59, 186, 186, 0.7));
+      opacity: 0.46;
+    }
+
+    .set-password {
+      
+      position: relative;
+
+      height: $set-password-height;
+      background-color: #ffffff;
+      margin-top: calc( (#{$main-height} - #{$set-password-height}) / 2);
+
+      form {
+        padding-top: 70px;
+      }
+    }
+  }
+}

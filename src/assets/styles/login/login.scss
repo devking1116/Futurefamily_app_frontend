@@ -1,0 +1,88 @@
+$main-height: 700px;
+$set-password-height: 400px;
+
+#root .login {
+  .title {
+    height: 67.5px;
+    background-color: #f5f6f7;
+
+    h1 {
+      width: 154px;
+      height: 35px;
+      font-family: FilsonProLight;
+      font-size: 30px;
+      font-weight: 300;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.17;
+      letter-spacing: -1.2px;
+      color: #3bbaba;
+    }
+  }
+
+  .main {
+    height: 700px;
+    opacity: 0.46;
+    background-color: #e5e7e9;
+    position: relative;
+    padding-top: 150px;
+
+    .panel {
+      height: 400px;
+      padding: 37.5px 55.5px;
+
+      &.left-panel {
+        background-color: #86939e;
+
+        h3 {
+          font-family: Roboto;
+          font-weight: 300;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: 1;
+          letter-spacing: -0.1px;
+          text-align: right;
+          color: #ffffff;
+        }
+
+        p {
+          width: 310px;
+          font-family: Roboto;
+          font-weight: normal;
+          font-style: normal;
+          font-stretch: normal;
+          line-height: 1.56;
+          letter-spacing: normal;
+          text-align: right;
+          color: #ffffff;
+          margin-left: auto;
+          font-size: 18px;
+        }
+
+        .btn-signup {
+          float: right;
+
+          color: #FFFFFF;
+          background-color: #ff8200;
+          font-size: 22px;
+          height: initial;
+          margin-left: 20px;
+          padding: 6px 8.5px;
+
+          &:hover {
+            color: #333;
+          }
+        }
+      }
+
+      &.right-panel {
+        background-color: #ffffff;
+
+        .btn-login {
+          background-color: #3bbaba;
+          padding: 6px 6.5px;
+        }
+      }
+    }
+  }
+}

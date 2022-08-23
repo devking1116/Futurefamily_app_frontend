@@ -1,0 +1,35 @@
+$main-height: 700px;
+$set-password-height: 400px;
+
+#root .news {
+  .title {
+    height: 67.5px;
+    background-color: #f5f6f7;
+
+    h1 {
+      width: 154px;
+      height: 35px;
+      font-family: FilsonProLight;
+      font-size: 30px;
+      font-weight: 300;
+      font-style: normal;
+      font-stretch: normal;
+      line-height: 1.17;
+      letter-spacing: -1.2px;
+      color: #3bbaba;
+    }
+  }
+
+  .main {
+    position: relative;
+    background-color: #e4e6e8;
+    padding: 52.5px 0;
+
+    .newsletter {
+      .news-image {
+        height: 300px;
+        background-size: cover;
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="36px" height="36px" viewBox="0 0 36 36" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Page 1</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Footer" transform="translate(-149.000000, -24.000000)">
+            <g id="Page-1" transform="translate(149.000000, 24.000000)">
+                <rect id="Rectangle" fill="#86939E" x="0" y="0" width="36" height="36"></rect>
+                <path d="M17.38224,15.0061582 L17.38224,17.5072778 L15.4044,17.5072778 L15.4044,25.9937104 L12.6,25.9937104 L12.6,15.1342909 C12.6,12.2060626 14.3424,10.0256365 17.4888,10.3897648 L17.4888,13.0392865 C16.1496,12.9335952 15.426,13.4895604 15.4044,15.0061582 L17.38224,15.0061582 Z" id="Fill-1" fill="#FFFFFF"></path>
+                <path d="M23.23368,15.0061582 L23.23368,17.5072778 L21.25584,17.5072778 L21.25584,25.9937104 L18.45,25.9937104 L18.45,15.1342909 C18.45,12.2060626 20.19384,10.0256365 23.34024,10.3897648 L23.34024,13.0392865 C22.00104,12.9335952 21.27744,13.4895604 21.25584,15.0061582 L23.23368,15.0061582 Z" id="Fill-4" fill="#FFFFFF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
